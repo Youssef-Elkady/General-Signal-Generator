@@ -1,5 +1,5 @@
 %main fucntion which has same name as the file that runs the whole code.
-function part2
+function general_function_generator
     fs = getFrequency();
     starting_time = input('Enter Signal Starting Time: ');
     ending_time = getEndingTime(starting_time);
